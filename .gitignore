@@ -483,3 +483,6 @@ $RECYCLE.BIN/
 
 # Local Be18 test files (may contain project data, never commit)
 /TestFiles/
+
+# Notes for AI coding agents; kept local
+/AGENTS.md
