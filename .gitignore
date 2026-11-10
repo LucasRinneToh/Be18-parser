@@ -480,3 +480,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Local Be18 test files (may contain project data, never commit)
+/TestFiles/
